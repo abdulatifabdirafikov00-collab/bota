@@ -1,0 +1,1 @@
+print("Abdulatifdan salom megajin")
